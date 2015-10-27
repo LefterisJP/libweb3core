@@ -37,6 +37,8 @@ namespace boost { namespace asio { namespace ip { template<class T>class basic_e
 namespace dev
 {
 
+void superFunctionAddedByLefteris();
+
 /// The null output stream. Used when logging is disabled.
 class NullOutputStream
 {
